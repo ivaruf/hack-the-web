@@ -1,0 +1,17 @@
+#cust_links {
+    position: relative;
+    left: 25px;
+    top: 12px;
+    font-weight: bold;
+    font-size: 120%; 
+}
+
+#cust_links a {
+    padding-right: 10px;
+    color: #006fac;
+    text-decoration: none;
+}
+
+#cust_links a:hover {
+    text-decoration: underline;
+}
