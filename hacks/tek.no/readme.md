@@ -6,7 +6,7 @@ Here is a simple solution to get around this.
 
 
 * Install ad-block (if not already installed)
-* Add customer filter: <code>static.tek.no/js/*.js</code>
+* Add customer filter: <code>static.tek.no/*hisrc.js</code>
 
 
 This will work for all their sub-sites hw.no, akam.no, amobil.no etc.
